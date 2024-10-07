@@ -29,5 +29,5 @@ bin/
 .DS_Store
 
 #striverz
-.idea/
+/.idea
 MyJavaHub.iml
