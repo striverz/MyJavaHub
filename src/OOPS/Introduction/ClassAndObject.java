@@ -1,6 +1,5 @@
 package OOPS.Introduction;
 
-import org.w3c.dom.css.Rect;
 //Class is a blueprint or template for creating the objects
 //Object is a instance, where the actual details of the class contain
 class Rectangle{
